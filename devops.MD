@@ -5,16 +5,16 @@ Our processes should be simple, easy to repeat and based upon tools we know well
 
 # We value deployments that are
 * Automated
-+ By codifying processes as executable code stored in version control
+  * By codifying processes as executable code stored in version control
 
 * Parameterised
-+ By exposing configuration as environment variables
+  * By exposing configuration as environment variables
 
 * Reproducible
-+ By avoiding side effects, non-codified processes, and unmanaged state
+  * By avoiding side effects, non-codified processes, and unmanaged state
 
 * Immutable
-+ By containerisation
+  * By containerisation
 
 # Cloud providers
 We prefer AWS but might use Heroku for quick proofs-of-concept.
