@@ -1,5 +1,5 @@
 # Introduction
-At The Startup Factory, we thrive to help small-scale developments which can be engaged to valid business hypotheses and used to make effective decisions.
+At The Startup Factory, we thrive on helping small-scale developments which can be engaged to validate business hypotheses and used to make effective decisions.
 
 Our processes are designed to be simple, repeatable and based upon open tools we have practical experience with and know well. We have the appetite and the motivation to try new things, being at the cutting edge so that your ideas don’t lose impact with the best technology. These guidelines are a starting point serving to fulfil the former need, but still allowing us to pursue the latter - technology choices are not as fixed as the core approaches are.
 
@@ -8,7 +8,7 @@ Our processes are designed to be simple, repeatable and based upon open tools we
   * _Codifying_ processes as code that can be run and stored in version control
 
 * Parameterised
-  * Exposing configuration as variables which can be alter per environment
+  * Exposing configuration as variables which can be altered per environment
 
 * Reproducible
   * Avoiding side effects, adhoc processes, or unmanaged state
@@ -17,7 +17,7 @@ Our processes are designed to be simple, repeatable and based upon open tools we
   * Containerising and keeping the images in a well-known state
 
 # Cloud providers
-Our solutions can be cloud-agnostic but we prefer AWS and have been using it before it became fashionable. We also use other platforms such as Heroku for quick proofs-of-concept tii.
+Our solutions can be cloud-agnostic but we prefer AWS and have been using it before it became fashionable. We also use other platforms such as Heroku for quick proofs-of-concept too.
 
 # Version control
 Everything involved in getting software deployed should be codified - that is, expressed through code, and version controlled - and undergo the well-fashioned review processes from peers. Processes shouldn’t depend upon individuals, and information shouldn't be siloed.
