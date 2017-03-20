@@ -1,32 +1,32 @@
 # Introduction
-At The Startup Factory we are primarily interested in small-scale developments that are meant to test business hypotheses.
+At The Startup Factory, we thrive on helping small-scale developments which can be engaged to validate business hypotheses and used to make effective decisions.
 
-Our processes should be simple, easy to repeat and based upon tools we know well. On the other hand, we have the appetite and the motivation to try new things so that we don’t behind on technology. These guidelines are a starting point serving to fulfil the former need, but still allowing us to pursue the latter (i.e. technology choices are not as fixed as the core approaches are).
+Our processes are designed to be simple, repeatable and based upon open tools we have practical experience with and know well. We have the appetite and the motivation to try new things, being at the cutting edge so that your ideas don’t lose impact with the best technology. These guidelines are a starting point serving to fulfil the former need, but still allowing us to pursue the latter - technology choices are not as fixed as the core approaches are.
 
 # We value deployments that are
 * Automated
-  * By codifying processes as executable code stored in version control
+  * _Codifying_ processes as code that can be run and stored in version control
 
 * Parameterised
-  * By exposing configuration as environment variables
+  * Exposing configuration as variables which can be altered per environment
 
 * Reproducible
-  * By avoiding side effects, non-codified processes, and unmanaged state
+  * Avoiding side effects, adhoc processes, or unmanaged state
 
 * Immutable
-  * By containerisation
+  * Containerising and keeping the images in a well-known state
 
 # Cloud providers
-We prefer AWS but might use Heroku for quick proofs-of-concept.
+Our solutions can be cloud-agnostic but we prefer AWS and have been using it before it became fashionable. We also use other platforms such as Heroku for quick proofs-of-concept too.
 
 # Version control
-Everything involved in getting software deployed should be codified - that is, expressed through code, and version controlled - and undergo the usual review processes. Processes shouldn’t depend upon individuals.
+Everything involved in getting software deployed should be codified - that is, expressed through code, and version controlled - and undergo the well-fashioned review processes from peers. Processes shouldn’t depend upon individuals, and information shouldn't be siloed.
 
 # Containers
 We use Docker to construct reproducible and immutable environments. Each software component should be capable of producing a Docker image as part of its build, and configuration parameters for those components should be exposed as environment variables.
 
 # Infrastructure
-AWS uses Cloud Formation to describe deployment infrastructure but Cloud Formation templates become unwieldy as the size of a project grows. We use Troposphere to generate these templates.
+AWS uses Cloud Formation to describe deployment infrastructure but Cloud Formation templates become unwieldy as the size of a project grows. To make this managable, we use Troposphere to generate these templates.
 
 # Provisioning
 Whereas infrastructure concerns machines and networks, provisioning is about what runs on those machines.
@@ -41,4 +41,7 @@ We treat private keys *very* carefully: we don’t email them, or send them over
 We think carefully about public network access to various systems and seek to minimise attack surfaces through IP whitelisting and selective port-forwarding, etc.
 
 # Builds
-Software should be built on and deployable through Jenkins. Jenkins should also build feature branches so that we don’t risk merging broken code into a deployment branch.
+Software should be built on and deployable continuously. We use Jenkins and it builds feature branches so that merging incorrect code is avoided.
+
+# Tests
+The application will test the business ideas, and we ensure that the infrastructure is tested properly too.
