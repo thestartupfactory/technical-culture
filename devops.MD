@@ -16,6 +16,9 @@ Our processes are designed to be simple, repeatable and based upon open tools we
 * Immutable
   * Containerising and keeping the images in a well-known state
 
+# Environments
+Every project should have a `staging` and `production`. No exceptions! Validate and demonstrate changes on `staging`, use `production` for customer facing deployments.
+
 # Cloud providers
 Our solutions can be cloud-agnostic but we prefer AWS and have been using it before it became fashionable. We also use other platforms such as Heroku for quick proofs-of-concept too.
 
