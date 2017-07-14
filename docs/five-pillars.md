@@ -1,4 +1,4 @@
-[Back](../) to README.  
+[Back](../README.md) to README
 
 # Five Pillars
 
@@ -50,4 +50,4 @@ Our business is defined on our values, our culture and our people. We’ve creat
 - Success is looking at a visible horizon, and getting there in the long run
 
 
-[Back](../) to README.  
+[Back](../README.md) to README

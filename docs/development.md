@@ -1,4 +1,4 @@
-[Back to README](../)
+[Back to README](../README.md)
 
 # Development
 Everything to do with how we like to develop software.  
@@ -23,7 +23,7 @@ Check this for a variety of tutorials and resources you can use to bring your ga
   - Readup on [Hubflow](https://datasift.github.io/gitflow/), this is how we like to work in teams.
 - Pull requests (PRs) Basics
   - Always make PRs, as early as you can.
-  - Fill in the description using the [template](#prtemplate).
+  - Fill in the description using the [template](#pr-template).
   - Comment on the ticket with a link to the PR.
   - Two thumb approval before a merge :+1: :+1:
   - Be helpful critical, no unhelpful criticism!
@@ -61,4 +61,4 @@ Some description for my PR.
 - [ ] ready for review/merge
 ```
 
-[Back to README](../)
+[Back to README](../README.md)

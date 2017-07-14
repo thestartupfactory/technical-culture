@@ -1,4 +1,4 @@
-[Back](../) to README.  
+[Back](../README.md) to README.  
 
 # Design
 We'll be honest - we're getting used to doing this regularly across our projects. The theory is if it's designed well from the beginning, there's less refactoring and expensive code changes to make down the line.
@@ -41,4 +41,4 @@ Tutorials and resources that you can use to become a better designer.
 // TODO figure out what we need!
 ```
 
-[Back](../) to README.  
+[Back](../README.md) to README.  
