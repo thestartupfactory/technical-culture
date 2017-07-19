@@ -32,7 +32,6 @@
 - All team members for a project must have access to the scheduled group call(s)
 - Tool’s IM should not be used, instead slack should be used.
 
-
 ## Personal Mobile
 - Only to be used for emergencies
 - It is at your discretion whether you give your contact details to clients
