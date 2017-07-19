@@ -26,6 +26,13 @@
 - Emails should be written in formal, textbook English
 - Brevity and succinctness is preferred
 
+## Video Conferencing
+- Used for all calls, where not everyone can be present.
+- Invites or links should be sent out before meetings in the agreed channel.
+- All team members for a project must have access to the scheduled group call(s)
+- Tool’s IM should not be used, instead slack should be used.
+
+
 ## Personal Mobile
 - Only to be used for emergencies
 - It is at your discretion whether you give your contact details to clients
