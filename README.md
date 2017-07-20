@@ -1,4 +1,4 @@
-# thestartupfactory.tech
+# ![thestartupfactory.tech icon](./images/tsf_icon_midnight_48.png "thestartupfactory.tech") thestartupfactory.tech
 
 Welcome, this repo contains our culture. You can think of it as our playbook.  
 In here you will find what makes us tick, the rules we play by and some templates we used to help organise our work.  

@@ -17,8 +17,8 @@ Check this for a variety of tutorials and resources you can use to bring your ga
 ## Version Control System
 
 - The Basics
- - We use `git`, it's a great tool.
- - Use [Github](https://github.com) too, it's wonderful.
+  - We use `git`, it's a great tool.
+  - Use [Github](https://github.com) too, it's wonderful.
 - Branching
   - Readup on [Hubflow](https://datasift.github.io/gitflow/), this is how we like to work in teams.
 - Pull requests (PRs) Basics
