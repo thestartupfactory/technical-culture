@@ -55,9 +55,11 @@ Some description for my PR.
 :warning: Some issue such as a pre-requisite PR for this feature.
 
 ### Checklist
-- [x] xyz
-- [ ] tested
-- [ ] deployed
+- [x] add new feature
+  - [x] update the model
+  - [ ] update the backend logic
+  - [ ] make relevant frontend view 
+- [ ] tested/deployed
 - [ ] ready for review/merge
 ```
 
