@@ -50,7 +50,9 @@ Tutorials and resources that you can use to become a better designer.
   - [Color Hexa](http://www.colorhexa.com/87ceeb) - setting your colour palette
     - We think it should be `Colour Hexa` #britishproblems
 - Icons
-  - [thenounproject](https://thenounproject.com/) - nearly one million curated icons
+  - [Font Awesome](http://fontawesome.io/) - we've used this more, start here
+  - [icon8](https://icons8.com/) - an alternative to investigate
+  - [thenounproject](https://thenounproject.com/) - another alternative, nearly one million curated icons
 - Processes and Books
   - [Design Sprint](http://www.gv.com/sprint/)
     - It's both a process and a book. Highly recommended.
