@@ -69,7 +69,7 @@ Tutorials and resources that you can use to become a better designer.
 - Establish a [Style Tile](http://styletil.es/)
   - Not all project require a style tile
   - This should help you develop and establish your brand identity
-  - Ensure the design language translate to all facets of your brand
+  - Ensure the design language translates to all facets of your brand
 - Identify who your target market is!
   - Rule #1 is to know who you're designing and building for
   - You can track these with personas
