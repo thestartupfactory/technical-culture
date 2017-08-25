@@ -68,9 +68,10 @@ Tutorials and resources that you can use to become a better designer.
 - Every project should have a Design Brief
   - Check the [template](#design-brief-template) below
   - This is similar to a Statement of Work
-- Establish a Style guide
-  - Not all project require a style guide
+- Establish a [Style Tile](http://styletil.es/)
+  - Not all project require a style tile
   - This should help you develop and establish your brand identity
+  - Ensure the design language translates to all facets of your brand
 - Identify who your target market is!
   - Rule #1 is to know who you're designing and building for
   - You can track these with personas
