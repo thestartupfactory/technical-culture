@@ -43,8 +43,9 @@ Check this for a variety of tutorials and resources you can use to bring your ga
   - Mutable is a design choice
   - Event or actor driven
 - Comment on your code where needed:
-  - Code should be clear and readble by itself
+  - Variables, methods and functions should be clear and understandable by itself
   - Comments normally say _why_, not _what_
+  - But don't worry about commenting more - it depends on your team!
 
 ## PR Template
 
