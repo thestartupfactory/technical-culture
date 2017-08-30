@@ -92,6 +92,7 @@ Tutorials and resources that you can use to become a better designer.
   - Avoid copying; you need to be innovating
 - Sketch the concepts
   - Stick to pencil and paper, everyone can contribute
+    - [POP](https://marvelapp.com/pop/) will be useful here
   - Think of this as your "concept car"
   - Big picture and small picture thinking
 
