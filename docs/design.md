@@ -65,18 +65,20 @@ Tutorials and resources that you can use to become a better designer.
 
 ## Starting a Project
 
-- Every project should have a Design Brief
-  - Check the [template](#design-brief-template) below
-  - This is similar to a Statement of Work
+- Every project should have a problem being solved
+  - Do this before even accepting or starting the project
+  - You may find this under "purpose" or "problem statement" in documentation
+  - If you aren't solving a problem, chances are the idea isn't ready yet
+- Identify who your target market is!
+  - Also do this before accepting or starting the project
+  - Rule #1 is to know who you're designing and building for
+  - You can track these with personas
+  - There are many ways to generate and develop personas
+  - Jobs, pains and gains is our preferred method of "just enough"
 - Establish a [Style Tile](http://styletil.es/)
   - Not all project require a style tile
   - This should help you develop and establish your brand identity
   - Ensure the design language translates to all facets of your brand
-- Identify who your target market is!
-  - Rule #1 is to know who you're designing and building for
-  - You can track these with personas
-  - There are many ways to generate and develop personas
-  - Jobs, pains and gains is a rapid way to do this
 
 ## Designing a feature
 
